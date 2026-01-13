@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/cloudflare/wrangler2/main/packages/wrangler/config-schema.json",
-  "name": "sora2-remover-watermark",
-  "main": "worker.ts",
+  "name": "beckend-trankrip-youtube",
+  "main": "transcript-worker.ts",
   "compatibility_date": "2024-03-25",
   "observability": {
     "enabled": true
