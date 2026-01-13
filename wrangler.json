@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/cloudflare/wrangler2/main/packages/wrangler/config-schema.json",
-  "name": "sora2-remover-watermark",
+  "name": "git44",
   "main": "worker.ts",
   "compatibility_date": "2024-03-25",
   "observability": {
